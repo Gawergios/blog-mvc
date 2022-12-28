@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    },
+    "require": {
+        "dcblogdev/pdo-wrapper": "^2.0",
+        "rakit/validation": "^1.4"
+    }
+}
